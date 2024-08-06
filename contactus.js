@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function() {
     
     backButton.addEventListener("click", function() {
         console.log('Back button clicked.');
-        window.location.href = "home.html";
+        window.location.href = "index.html";
       });
   
     const navToggle = document.querySelector('.nav-toggle');
